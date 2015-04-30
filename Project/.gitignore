@@ -1,1 +1,10 @@
 /bin
+
+*.zip
+*.log
+*.pdf
+*.xls
+.project
+.settings
+.classpath
+.metadata
